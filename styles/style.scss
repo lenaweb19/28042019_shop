@@ -345,3 +345,102 @@ h3 {
 
 }
 
+
+
+.detail {
+    margin: 0 auto;   
+    margin-top: 30px;
+    margin-bottom: 60px;
+  
+
+}
+
+.detail-foto {
+    box-sizing: border-box;
+    min-height: 500px;
+    min-width: 100%;
+    background:  center center / contain no-repeat; 
+    border-right: 120px solid  #fffcfc;
+    border-left: 120px solid  #fffcfc;
+    flex-basis: 300px;
+    flex-grow: 1;
+    margin-bottom: 30px;
+    
+}
+
+.detail-name {
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-weight: bold;
+  
+}
+
+.article {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(212, 209, 209);
+    font-size: 15px;
+    text-align: center;
+}
+
+.price {
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(192, 187, 187);
+    text-align: center;
+    font-style: italic;
+    margin:20px 0;
+}
+
+.description {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(192, 187, 187);
+    font-size: 25px;
+    text-align: center;
+    margin:30px 0;
+}
+
+.size {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(192, 187, 187);
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.size-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    
+    padding-bottom: 30px;
+    color: rgb(192, 187, 187);
+
+}
+
+.size-num {
+    min-width: 30px;
+    min-height: 30px;
+    background: white;
+    color: rgb(192, 187, 187);
+    border: 3px solid rgb(192, 187, 187);
+    margin: 20px 5px;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Roboto Condensed' , sans-serif;
+    cursor: pointer;
+}
+
+.addto {
+    background: orange;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Roboto Condensed' , sans-serif;
+    cursor: pointer;
+    margin: 0 auto;
+    padding: 5px;
+    width: 200px;
+ 
+}

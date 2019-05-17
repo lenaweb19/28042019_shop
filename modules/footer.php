@@ -16,7 +16,7 @@
         <div class="nav-footer">
             <h3>МЫ В СОЦИАЛЬНЫХ СЕТЯХ</h3>
             <p>Сайт разработан в inordic.ru</p>
-            <p>2018 &#169; Все права защищены</p>
+            <p>2018&#169; Все права защищены</p>
             <div class="social-icon">
                 <a href="#" class="twitter"></a>
                 <a href="#" class="facebook"></a>
